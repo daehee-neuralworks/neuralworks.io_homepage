@@ -686,11 +686,7 @@ a {
   display: flex;
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/keyboard-g833f108f8-1920.jpg");
-}
-.cid-twzx6wzPBE .mbr-overlay {
-  background-color: #353535;
-  opacity: 0.5;
+  background-color: #ffffff;
 }
 .cid-twzx6wzPBE .content-wrap {
   padding: 5rem 1rem;
@@ -727,6 +723,10 @@ a {
 .cid-twzx6wzPBE .mbr-text,
 .cid-twzx6wzPBE .mbr-section-btn {
   text-align: left;
+  color: #353535;
+}
+.cid-twzx6wzPBE .mbr-section-title {
+  color: #2299aa;
 }
 .cid-ts8GWnblRg {
   padding-top: 6rem;
