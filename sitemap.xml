@@ -1,0 +1,23 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://neuralworks.io/index.html</loc>
+	</url>
+	<url>
+		<loc>https://neuralworks.io/dataintro.html</loc>
+	</url>
+	<url>
+		<loc>https://neuralworks.io/imagedata.html</loc>
+	</url>
+	<url>
+		<loc>https://neuralworks.io/videodata.html</loc>
+	</url>
+	<url>
+		<loc>https://neuralworks.io/audiodata.html</loc>
+	</url>
+	<url>
+		<loc>https://neuralworks.io/dataanalysis.html</loc>
+	</url>
+	<url>
+		<loc>https://neuralworks.io/imagerecognition.html</loc>
+	</url>
+</urlset>
