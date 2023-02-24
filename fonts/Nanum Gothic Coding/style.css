@@ -1,0 +1,14 @@
+@font-face {
+   font-family: 'Nanum Gothic Coding';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///Users/daehee/Documents/GitHub/neuralworks.io_homepage/fonts/Nanum Gothic Coding/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Nanum Gothic Coding';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/daehee/Documents/GitHub/neuralworks.io_homepage/fonts/Nanum Gothic Coding/regular.ttf') format('truetype');
+}

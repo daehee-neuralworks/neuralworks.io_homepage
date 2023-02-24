@@ -2,7 +2,7 @@ body {
   font-family: DM Sans;
 }
 .display-1 {
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Nanum Gothic Coding', monospace;
   font-size: 3rem;
   line-height: 1.1;
 }
@@ -10,7 +10,7 @@ body {
   font-size: 3.75rem;
 }
 .display-2 {
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Nanum Gothic Coding', monospace;
   font-size: 3rem;
   line-height: 1.1;
 }
@@ -26,7 +26,7 @@ body {
   font-size: 1.25rem;
 }
 .display-5 {
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Nanum Gothic Coding', monospace;
   font-size: 2.2rem;
   line-height: 1.5;
 }
@@ -34,7 +34,7 @@ body {
   font-size: 2.75rem;
 }
 .display-7 {
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Nanum Gothic Coding', monospace;
   font-size: 1.5rem;
   line-height: 1.5;
 }
@@ -686,7 +686,7 @@ a {
   display: flex;
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background12.jpg");
+  background-image: url("../../../assets/images/keyboard-g833f108f8-1920.jpg");
 }
 .cid-twzx6wzPBE .mbr-overlay {
   background-color: #353535;
@@ -723,6 +723,10 @@ a {
   .cid-twzx6wzPBE .content-wrap {
     width: 100%;
   }
+}
+.cid-twzx6wzPBE .mbr-text,
+.cid-twzx6wzPBE .mbr-section-btn {
+  text-align: left;
 }
 .cid-ts8GWnblRg {
   padding-top: 6rem;
