@@ -684,7 +684,7 @@ a {
 }
 .cid-twTlgXdF6m {
   display: flex;
-  background-image: url("../../../assets/images/background12.jpg");
+  background-image: url("../../../assets/images/background12.jpeg");
 }
 .cid-twTlgXdF6m .mbr-overlay {
   background-color: #353535;
@@ -724,6 +724,7 @@ a {
 }
 .cid-twTlgXdF6m .mbr-section-title {
   text-align: left;
+  color: #ffffff;
 }
 .cid-twTPjTNIOE {
   padding-top: 5rem;
