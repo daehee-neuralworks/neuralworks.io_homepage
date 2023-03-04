@@ -1695,8 +1695,6 @@ a {
 .cid-sFc8FsdIMb {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sFc8FsdIMb nav.navbar {
   position: fixed;
@@ -1796,7 +1794,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  position: absolute;
   background: #ffffff;
 }
 .cid-sFc8FsdIMb .navbar.opened {
@@ -2506,8 +2504,6 @@ a {
 .cid-sFcp9ScybF {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sFcp9ScybF nav.navbar {
   position: fixed;
@@ -2607,7 +2603,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  position: absolute;
   background: #ffffff;
 }
 .cid-sFcp9ScybF .navbar.opened {
@@ -3062,8 +3058,6 @@ a {
 .cid-sFc8Luo2F9 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sFc8Luo2F9 nav.navbar {
   position: fixed;
@@ -3163,7 +3157,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  position: absolute;
   background: #ffffff;
 }
 .cid-sFc8Luo2F9 .navbar.opened {
@@ -3815,8 +3809,6 @@ a {
 .cid-sFcp4IfU1z {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sFcp4IfU1z nav.navbar {
   position: fixed;
@@ -3916,7 +3908,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  position: absolute;
   background: #ffffff;
 }
 .cid-sFcp4IfU1z .navbar.opened {
@@ -5108,8 +5100,6 @@ a {
 .cid-sOfBIoFgji {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sOfBIoFgji nav.navbar {
   position: fixed;
@@ -5209,7 +5199,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  position: absolute;
   background: #ffffff;
 }
 .cid-sOfBIoFgji .navbar.opened {
@@ -5814,8 +5804,6 @@ a {
 .cid-sOfmgi7mk0 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sOfmgi7mk0 nav.navbar {
   position: fixed;
@@ -5915,7 +5903,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  position: absolute;
   background: #ffffff;
 }
 .cid-sOfmgi7mk0 .navbar.opened {
@@ -6636,8 +6624,6 @@ a {
 .cid-twTb8TCXPv {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-twTb8TCXPv nav.navbar {
   position: fixed;
@@ -6737,7 +6723,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  position: absolute;
   background: #ffffff;
 }
 .cid-twTb8TCXPv .navbar.opened {
