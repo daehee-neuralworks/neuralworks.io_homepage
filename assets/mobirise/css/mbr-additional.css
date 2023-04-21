@@ -887,6 +887,39 @@ a {
 .cid-tBCjwKVQk7 .mbr-section-title {
   color: #2299aa;
 }
+.cid-tC3pvxwFKn {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tC3pvxwFKn .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tC3pvxwFKn .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tC3pvxwFKn .mbr-text,
+.cid-tC3pvxwFKn .mbr-section-btn {
+  color: #232323;
+}
+.cid-tC3pvxwFKn .card-title,
+.cid-tC3pvxwFKn .card-box {
+  color: #2299aa;
+}
+.cid-tC3pvxwFKn .mbr-text,
+.cid-tC3pvxwFKn .link-wrap {
+  color: #ffffff;
+}
+.cid-tC3pvxwFKn .card-box .mbr-text,
+.cid-tC3pvxwFKn .mbr-section-btn {
+  color: #0c3d45;
+}
 .cid-txvNol0cCs {
   padding-top: 1rem;
   padding-bottom: 1rem;
