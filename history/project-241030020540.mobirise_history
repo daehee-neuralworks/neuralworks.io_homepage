@@ -75,7 +75,7 @@
     "versionPublish": "5.8.0",
     "imageResize": false,
     "favicon": "@PROJECT_PATH@/assets/images/logo1-1-1-1-1_1.png",
-    "mbrsiteDomain": "rm3sjdgsxv",
+    "mbrsiteDomain": "r0cyazdxa5",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -84,10 +84,8 @@
     "gdpr": false,
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-MBQPWQGD5L\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-MBQPWQGD5L');\n</script>\n\n<script src=\"//code.tidio.co/rlwaxth6fit4cfbaomezm9gceyef2vve.js\"></script>\n",
-    "usedWebp": false,
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-MBQPWQGD5L\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-MBQPWQGD5L');\n</script>",
+    "usedWebp": false
   },
   "pages": {
     "index.html": {
